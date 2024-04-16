@@ -1,0 +1,9 @@
+body {
+  padding-moddle: 11em;
+  font-familiy: Georgia, "Times New Roman",
+  color: purple;
+
+  background-image:url('背景图片.png');
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:cover;}
